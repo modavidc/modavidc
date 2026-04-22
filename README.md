@@ -4,8 +4,8 @@
 
 Solutions Architect | Backend & Cloud | FinOps
 
-Hi, I'm Moisés. I build scalable systems where performance and cost efficiency are first-class concerns.
-
+Hi, I'm Moisés. I build scalable systems that reduce costs and don’t depend on who built them.
+ 
 ## Impact
 
 <table>
@@ -63,18 +63,8 @@ Hi, I'm Moisés. I build scalable systems where performance and cost efficiency 
 <table>
 <tr>
 <td align="center" style="border: none;">
-  <a href="https://github.com/modavidc">
-    <img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub
-  </a>
-</td>
-<td align="center" style="border: none;">
   <a href="mailto:moisesdavidaaron@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50"/><br>Email
-  </a>
-</td>
-<td align="center" style="border: none;">
-  <a href="https://twitter.com/modavidc">
-    <img src="https://skillicons.dev/icons?i=twitter" width="50"/><br>Twitter
   </a>
 </td>
 <td align="center" style="border: none;">
@@ -84,13 +74,9 @@ Hi, I'm Moisés. I build scalable systems where performance and cost efficiency 
 </td>
 <td align="center" style="border: none;">
   <a href="https://modavidc.com">
-    <img src="https://skillicons.dev/icons?i=react" width="50"/><br>Website
+    <img height="50" alt="website" src="https://github.com/user-attachments/assets/e8947869-d654-4da5-b5d4-f74a06c191f4" />
+    <br>Website
   </a>
-</td>
-<td align="center" style="border: none;">
-  <a href="https://blog.modavidc.com">
-    <img src="https://skillicons.dev/icons?i=devto" width="50"/><br>Blog
-  </a>
-</td>
+</td>  
 </tr>
 </table>
