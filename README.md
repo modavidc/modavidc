@@ -1,82 +1,44 @@
-<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/3cce7629-7ed6-4bf3-b780-397a54bd6973" />
+<img width="1400" height="350" alt="Moisés Cedeño banner" src="https://media.licdn.com/dms/image/v2/D4E16AQHIs_ynfrSjmw/profile-displaybackgroundimage-shrink_200_800/B4EaEZaLaWIwAQ-/0/1791427655575?e=1795046400&v=beta&t=efipDRYmrhxxuUFexFs65MPakN4pRQBvV_jlZaOa3cs" />
 
 # Moisés Cedeño
 
-Solutions Architect | Backend & Cloud | FinOps
+Senior Solutions Architect & Builder · FinOps: -58% AWS, -$20k/yr in licensing · SaaS, Healthcare & Agentic AI · 2x AWS Certified
 
-Hi, I'm Moisés. I build scalable systems that reduce costs and don’t depend on who built them.
- 
-## Impact
+I build reliable systems for SaaS and healthcare. From backend architecture to cloud optimization, I help teams ship what matters without wasting time or money.
 
-<table>
-<tr>
-<td align="center" style="border: none;">
-  <img src="https://img.shields.io/badge/AWS-58%25-232F3E?style=flat&logo=amazonaws&logoColor=white"/><br>
-  <strong>-58% AWS cost</strong>
-</td>
-<td align="center" style="border: none;">
-  <img src="https://img.shields.io/badge/Savings-$20K%2Fyear-2E8B57?style=flat&logo=money&logoColor=white"/><br>
-  <strong>-$20K/year</strong>
-</td>
-<td align="center" style="border: none;">
-  <img src="https://img.shields.io/badge/Users-20K+-blue?style=flat&logo=users&logoColor=white"/><br>
-  <strong>20K+ users</strong>
-</td>
-</tr>
-</table>
+## About me
 
-## Stack
+I help teams design scalable backend systems, modern cloud infrastructure, and AI-powered products that are efficient, reliable, and ready for growth.
 
-<table>
-<tr>
-<td align="center" style="border: none;">
-  <img src="https://skillicons.dev/icons?i=aws" width="50"/><br>AWS
-</td>
-<td align="center" style="border: none;">
-  <img src="https://skillicons.dev/icons?i=laravel" width="50"/><br>Laravel
-</td>
-<td align="center" style="border: none;">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js
-</td>
-<td align="center" style="border: none;">
-  <img src="https://skillicons.dev/icons?i=dotnet" width="50"/><br>.NET
-</td>
-<td align="center" style="border: none;">
-  <img src="https://skillicons.dev/icons?i=flutter" width="50"/><br>Flutter
-</td>
-<td align="center" style="border: none;">
-  <img src="https://skillicons.dev/icons?i=docker" width="50"/><br>Docker
-</td>
-<td align="center" style="border: none;">
-  <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL
-</td>
-<td align="center" style="border: none;">
-  <img src="https://skillicons.dev/icons?i=linux" width="50"/><br>Linux
-</td>
-</tr>
-</table>
+The first time I saw an AWS bill drop by 58%, I understood something important: the best architecture is not the one that looks impressive on a diagram, it is the one the business can afford.
 
----
+## What I do
+
+- Cloud architecture and modernization
+- Backend systems and APIs
+- FinOps and cost optimization
+- SaaS product delivery
+- Healthcare integrations and compliance
+- Agentic AI workflows
+
+## Tools & technologies
+
+- AWS
+- Laravel
+- PHP
+- Node.js
+- .NET
+- Flutter
+- Docker
+- MySQL
+- Linux
 
 ## Contact
 
-<table>
-<tr>
-<td align="center" style="border: none;">
-  <a href="mailto:moisesdavidaaron@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50"/><br>Email
-  </a>
-</td>
-<td align="center" style="border: none;">
-  <a href="https://www.linkedin.com/in/modavidc">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/><br>LinkedIn
-  </a>
-</td>
-<td align="center" style="border: none;">
-  <a href="https://modavidc.com">
-    <img height="50" alt="website" src="https://github.com/user-attachments/assets/e8947869-d654-4da5-b5d4-f74a06c191f4" />
-    <br>Website
-  </a>
-</td>  
-</tr>
-</table>
+- Email: moisesdavidaaron@gmail.com
+- LinkedIn: https://www.linkedin.com/in/modavidc
+- Website: https://modavidc.com
+
+---
+
+Let's do hard things.
