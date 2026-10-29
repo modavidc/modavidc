@@ -2,30 +2,27 @@
 
 # Moisés Cedeño
 
-Senior Solutions Architect & Builder · FinOps: -58% AWS, -$20k/yr in licensing · SaaS, Healthcare & Agentic AI · 2x AWS Certified
+Senior Solutions Architect & Builder · FinOps · SaaS · Healthcare · Agentic AI
 
 I build reliable systems for SaaS and healthcare. From backend architecture to cloud optimization, I help teams ship what matters without wasting time or money.
 
 ## About me
 
-I help teams design scalable backend systems, modern cloud infrastructure, and AI-powered products that are efficient, reliable, and ready for growth.
+I help teams design scalable backend systems, modern cloud infrastructure, and products that are reliable, efficient, and ready to grow.
 
-The first time I saw an AWS bill drop by 58%, I understood something important: the best architecture is not the one that looks impressive on a diagram, it is the one the business can afford.
+The best architecture is the one the business can afford — and often, the simplest one.
 
 ## What I do
 
 - Cloud architecture and modernization
 - Backend systems and APIs
 - FinOps and cost optimization
-- SaaS product delivery
-- Healthcare integrations and compliance
-- Agentic AI workflows
+- AI and workflow automation
 
 ## Tools & technologies
 
 - AWS
 - Laravel
-- PHP
 - Node.js
 - .NET
 - Flutter
